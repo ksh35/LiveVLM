@@ -1,2 +1,2 @@
 # LiveVLM
-Live Video Analysis experimentation platform: livevlm.com
+Live Video Analysis experimentation platform: **livevlm.com**
